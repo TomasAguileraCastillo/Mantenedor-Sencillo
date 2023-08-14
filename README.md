@@ -1,2 +1,0 @@
-# Mantenedor-Sencillo
-Mantenedor 
