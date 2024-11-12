@@ -1,4 +1,4 @@
-# Mantenedor Sencillo
+# Mantenedor  Sencillo
 ![Imagen del proyecto](https://github.com/TomasAguileraCastillo/Mantenedor-Sencillo/blob/main/mantenedor/imagenes%20del%20proyecto/Captura1.JPG?raw=true)
 
 ## Descripción 📑
