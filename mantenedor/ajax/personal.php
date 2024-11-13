@@ -2,7 +2,7 @@
 	require_once "../modelos/Personal.php";
 			$personal=new Personal(); //objeto de la lcase personal
 
-			$id_personal=isset($_POST["idPersonal"])? limpiarCadena($_POST["idpersonal"]):"";//validacion exixtencia de variable por metodo post, condicional de una linea
+			$id_ personal=isset($_POST["idPersonal"])? limpiarCadena($_POST["idpersonal"]):"";//validacion exixtencia de variable por metodo post, condicional de una linea
 			$nombre_personal=isset($_POST["Rut"])? limpiarCadena($_POST["Rut"]):"";
 			$nombre_personal=isset($_POST["Nombre"])? limpiarCadena($_POST["Nombre"]):"";
 			$apellido_personal=isset($_POST["Apellido"])? limpiarCadena($_POST["Apellido"]):"";
