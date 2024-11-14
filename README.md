@@ -1,7 +1,7 @@
 # Mantenedor  Sencillo
 ![Imagen del proyecto](https://github.com/TomasAguileraCastillo/Mantenedor-Sencillo/blob/main/mantenedor/imagenes%20del%20proyecto/Captura1.JPG?raw=true)
 
-## Descripción 📑
+##   Descripción 📑
 
 Pequeño proyecto desarrollado para aplicar los estilos bootstrap y ejecutar funciones de validacion de rut y correo. 
 Realizando un rediseño visual de sus controles. La idea es mantener estos proyectos para tener a la mano si se necesita.
