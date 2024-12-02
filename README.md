@@ -4,7 +4,7 @@
 ##   Descripción 📑
 
 Pequeño proyecto desarrollado para  aplicar los estilos bootstrap y ejecutar funciones de validacion de rut y correo. 
-Realizando un rediseño visual de sus controles. La idea es mantener estos proyectos para tener a la mano si se necesita.
+Realizando un rediseño visual de sus controles. La idea es mantener estos proyectos para tener a la mano si se necesita .
 
 
 ## Tecnologías 🛠
